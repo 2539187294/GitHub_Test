@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "02.应用服务/1.0.0": {
+        "dependencies": {
+          "03.领域": "1.0.0",
+          "04.data.EF": "1.0.0"
+        },
+        "runtime": {
+          "02.应用服务.dll": {}
+        }
+      },
+      "03.领域/1.0.0": {
+        "runtime": {
+          "03.领域.dll": {}
+        }
+      },
+      "04.data.EF/1.0.0": {
+        "dependencies": {
+          "03.领域": "1.0.0"
+        },
+        "runtime": {
+          "04.data.EF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02.应用服务/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "03.领域/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "04.data.EF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

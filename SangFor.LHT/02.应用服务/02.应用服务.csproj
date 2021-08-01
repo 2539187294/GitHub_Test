@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_02.应用服务</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\03.领域\03.领域.csproj" />
+    <ProjectReference Include="..\04.data\04.data.EF.csproj" />
+  </ItemGroup>
+
+</Project>

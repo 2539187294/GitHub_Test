@@ -1,0 +1,12 @@
+C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\bin\Debug\netcoreapp3.1\05.Data.NH.deps.json
+C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\bin\Debug\netcoreapp3.1\05.Data.NH.dll
+C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\bin\Debug\netcoreapp3.1\05.Data.NH.pdb
+C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\bin\Debug\netcoreapp3.1\03.领域.dll
+C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\bin\Debug\netcoreapp3.1\03.领域.pdb
+C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.csproj.AssemblyReference.cache
+C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.AssemblyInfoInputs.cache
+C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.AssemblyInfo.cs
+C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.csproj.CoreCompileInputs.cache
+C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.csproj.CopyComplete
+C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.dll
+C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.pdb
