@@ -32,3 +32,4 @@ D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCoreMVC\obj\Debug\netcoreapp2.1\WebCor
 D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCoreMVC\obj\Debug\netcoreapp2.1\WebCoreMVC.pdb
 D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCoreMVC\obj\Debug\netcoreapp2.1\WebCoreMVC.genruntimeconfig.cache
 D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCoreMVC\obj\Debug\netcoreapp2.1\WebCoreMVC.csproj.CopyComplete
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCoreMVC\obj\Debug\netcoreapp2.1\WebCoreMVC.csproj.AssemblyReference.cache

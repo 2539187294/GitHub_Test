@@ -52,6 +52,7 @@ namespace WebCoreMVC
             app.UseStaticFiles();
             app.UseCookiePolicy();
 
+            app.UseMiddleware<shortCircuitMiddleware>();
             app.UseMiddleware<contextMiddleware>();
 
             app.UseMvc(routes =>
