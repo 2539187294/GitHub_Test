@@ -1,0 +1,9 @@
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\07.ResponstoryCore\bin\Debug\netcoreapp2.1\07.ResponstoryCore.deps.json
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\07.ResponstoryCore\bin\Debug\netcoreapp2.1\07.ResponstoryCore.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\07.ResponstoryCore\bin\Debug\netcoreapp2.1\07.ResponstoryCore.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\07.ResponstoryCore\obj\Debug\netcoreapp2.1\07.ResponstoryCore.csproj.AssemblyReference.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\07.ResponstoryCore\obj\Debug\netcoreapp2.1\07.ResponstoryCore.AssemblyInfoInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\07.ResponstoryCore\obj\Debug\netcoreapp2.1\07.ResponstoryCore.AssemblyInfo.cs
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\07.ResponstoryCore\obj\Debug\netcoreapp2.1\07.ResponstoryCore.csproj.CoreCompileInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\07.ResponstoryCore\obj\Debug\netcoreapp2.1\07.ResponstoryCore.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\07.ResponstoryCore\obj\Debug\netcoreapp2.1\07.ResponstoryCore.pdb

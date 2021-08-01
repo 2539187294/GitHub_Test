@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "06.ServiceCore/1.0.0": {
+        "dependencies": {
+          "07.ResponstoryCore": "1.0.0"
+        },
+        "runtime": {
+          "06.ServiceCore.dll": {}
+        }
+      },
+      "07.ResponstoryCore/1.0.0": {
+        "runtime": {
+          "07.ResponstoryCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06.ServiceCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "07.ResponstoryCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qg0XISeMWV/fzfb7gMcy4+zenQtWAMJZPA6AMBoFjENq5AuBQSbkzafP05jmtXCv6J/+fstzdV8P/bkuDNbmuA==",
+  "dgSpecHash": "e54Dlxe9Es7mEzN1tr2MsYTD4nfGHK3DGIaDraQ3wnAgszSKH0ya2gnAq55ZPBAegSWzx0FaD+ausgmJw8lZYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\25391\\source\\repos\\net.core.webapi.20210731\\net.core.webapi.20210731\\net.core.webapi.20210731.csproj",
+  "projectFilePath": "D:\\SangFor.LHT\\GitHub_Test\\SangFor.LHT\\net.core.webapi.20210731\\net.core.webapi.20210731.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\25391\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\25391\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

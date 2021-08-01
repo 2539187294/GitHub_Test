@@ -12,3 +12,17 @@ C:\Users\25391\source\repos\net.core.webapi.20210731\02.应用服务\obj\Debug\n
 C:\Users\25391\source\repos\net.core.webapi.20210731\02.应用服务\obj\Debug\netcoreapp3.1\02.应用服务.csproj.CopyComplete
 C:\Users\25391\source\repos\net.core.webapi.20210731\02.应用服务\obj\Debug\netcoreapp3.1\02.应用服务.dll
 C:\Users\25391\source\repos\net.core.webapi.20210731\02.应用服务\obj\Debug\netcoreapp3.1\02.应用服务.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.应用服务\bin\Debug\netcoreapp3.1\02.应用服务.deps.json
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.应用服务\bin\Debug\netcoreapp3.1\02.应用服务.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.应用服务\bin\Debug\netcoreapp3.1\02.应用服务.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.应用服务\bin\Debug\netcoreapp3.1\03.领域.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.应用服务\bin\Debug\netcoreapp3.1\04.data.EF.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.应用服务\bin\Debug\netcoreapp3.1\03.领域.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.应用服务\bin\Debug\netcoreapp3.1\04.data.EF.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.应用服务\obj\Debug\netcoreapp3.1\02.应用服务.csproj.AssemblyReference.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.应用服务\obj\Debug\netcoreapp3.1\02.应用服务.AssemblyInfoInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.应用服务\obj\Debug\netcoreapp3.1\02.应用服务.AssemblyInfo.cs
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.应用服务\obj\Debug\netcoreapp3.1\02.应用服务.csproj.CoreCompileInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.应用服务\obj\Debug\netcoreapp3.1\02.应用服务.csproj.CopyComplete
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.应用服务\obj\Debug\netcoreapp3.1\02.应用服务.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.应用服务\obj\Debug\netcoreapp3.1\02.应用服务.pdb

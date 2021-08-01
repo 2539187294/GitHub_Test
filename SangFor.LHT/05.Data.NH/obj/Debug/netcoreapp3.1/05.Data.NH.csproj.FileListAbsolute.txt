@@ -10,3 +10,15 @@ C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\obj\Debug\netcor
 C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.csproj.CopyComplete
 C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.dll
 C:\Users\25391\source\repos\net.core.webapi.20210731\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\05.Data.NH\bin\Debug\netcoreapp3.1\05.Data.NH.deps.json
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\05.Data.NH\bin\Debug\netcoreapp3.1\05.Data.NH.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\05.Data.NH\bin\Debug\netcoreapp3.1\05.Data.NH.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\05.Data.NH\bin\Debug\netcoreapp3.1\03.领域.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\05.Data.NH\bin\Debug\netcoreapp3.1\03.领域.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.csproj.AssemblyReference.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.AssemblyInfoInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.AssemblyInfo.cs
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.csproj.CoreCompileInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.csproj.CopyComplete
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\05.Data.NH\obj\Debug\netcoreapp3.1\05.Data.NH.pdb

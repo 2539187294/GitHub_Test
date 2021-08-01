@@ -1,0 +1,12 @@
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\06.ServiceCore\bin\Debug\netcoreapp2.1\06.ServiceCore.deps.json
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\06.ServiceCore\bin\Debug\netcoreapp2.1\06.ServiceCore.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\06.ServiceCore\bin\Debug\netcoreapp2.1\06.ServiceCore.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\06.ServiceCore\bin\Debug\netcoreapp2.1\07.ResponstoryCore.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\06.ServiceCore\bin\Debug\netcoreapp2.1\07.ResponstoryCore.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\06.ServiceCore\obj\Debug\netcoreapp2.1\06.ServiceCore.csproj.AssemblyReference.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\06.ServiceCore\obj\Debug\netcoreapp2.1\06.ServiceCore.AssemblyInfoInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\06.ServiceCore\obj\Debug\netcoreapp2.1\06.ServiceCore.AssemblyInfo.cs
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\06.ServiceCore\obj\Debug\netcoreapp2.1\06.ServiceCore.csproj.CoreCompileInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\06.ServiceCore\obj\Debug\netcoreapp2.1\06.ServiceCore.csproj.CopyComplete
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\06.ServiceCore\obj\Debug\netcoreapp2.1\06.ServiceCore.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\06.ServiceCore\obj\Debug\netcoreapp2.1\06.ServiceCore.pdb

@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\25391\\source\\repos\\net.core.webapi.20210731\\02.应用服务\\02.应用服务.csproj",
+      "projectUniqueName": "D:\\SangFor.LHT\\GitHub_Test\\SangFor.LHT\\02.应用服务\\02.应用服务.csproj",
       "projectName": "02.应用服务",
-      "projectPath": "C:\\Users\\25391\\source\\repos\\net.core.webapi.20210731\\02.应用服务\\02.应用服务.csproj",
+      "projectPath": "D:\\SangFor.LHT\\GitHub_Test\\SangFor.LHT\\02.应用服务\\02.应用服务.csproj",
       "packagesPath": "C:\\Users\\25391\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\25391\\source\\repos\\net.core.webapi.20210731\\02.应用服务\\obj\\",
+      "outputPath": "D:\\SangFor.LHT\\GitHub_Test\\SangFor.LHT\\02.应用服务\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -76,11 +76,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\25391\\source\\repos\\net.core.webapi.20210731\\03.领域\\03.领域.csproj": {
-              "projectPath": "C:\\Users\\25391\\source\\repos\\net.core.webapi.20210731\\03.领域\\03.领域.csproj"
+            "D:\\SangFor.LHT\\GitHub_Test\\SangFor.LHT\\03.领域\\03.领域.csproj": {
+              "projectPath": "D:\\SangFor.LHT\\GitHub_Test\\SangFor.LHT\\03.领域\\03.领域.csproj"
             },
-            "C:\\Users\\25391\\source\\repos\\net.core.webapi.20210731\\04.data\\04.data.EF.csproj": {
-              "projectPath": "C:\\Users\\25391\\source\\repos\\net.core.webapi.20210731\\04.data\\04.data.EF.csproj"
+            "D:\\SangFor.LHT\\GitHub_Test\\SangFor.LHT\\04.data\\04.data.EF.csproj": {
+              "projectPath": "D:\\SangFor.LHT\\GitHub_Test\\SangFor.LHT\\04.data\\04.data.EF.csproj"
             }
           }
         }

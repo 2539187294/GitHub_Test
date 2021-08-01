@@ -7,3 +7,12 @@ C:\Users\25391\source\repos\net.core.webapi.20210731\03.领域\obj\Debug\netcore
 C:\Users\25391\source\repos\net.core.webapi.20210731\03.领域\obj\Debug\netcoreapp3.1\03.领域.dll
 C:\Users\25391\source\repos\net.core.webapi.20210731\03.领域\obj\Debug\netcoreapp3.1\03.领域.pdb
 C:\Users\25391\source\repos\net.core.webapi.20210731\03.领域\obj\Debug\netcoreapp3.1\03.领域.csproj.AssemblyReference.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\03.领域\bin\Debug\netcoreapp3.1\03.领域.deps.json
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\03.领域\bin\Debug\netcoreapp3.1\03.领域.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\03.领域\bin\Debug\netcoreapp3.1\03.领域.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\03.领域\obj\Debug\netcoreapp3.1\03.领域.AssemblyInfoInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\03.领域\obj\Debug\netcoreapp3.1\03.领域.AssemblyInfo.cs
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\03.领域\obj\Debug\netcoreapp3.1\03.领域.csproj.CoreCompileInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\03.领域\obj\Debug\netcoreapp3.1\03.领域.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\03.领域\obj\Debug\netcoreapp3.1\03.领域.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\03.领域\obj\Debug\netcoreapp3.1\03.领域.csproj.AssemblyReference.cache
