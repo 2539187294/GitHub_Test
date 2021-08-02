@@ -1,0 +1,7 @@
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\01.delegateSample\bin\Debug\01.delegateSample.exe.config
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\01.delegateSample\bin\Debug\01.delegateSample.exe
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\01.delegateSample\bin\Debug\01.delegateSample.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\01.delegateSample\obj\Debug\01.delegateSample.csproj.AssemblyReference.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\01.delegateSample\obj\Debug\01.delegateSample.csproj.CoreCompileInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\01.delegateSample\obj\Debug\01.delegateSample.exe
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\01.delegateSample\obj\Debug\01.delegateSample.pdb

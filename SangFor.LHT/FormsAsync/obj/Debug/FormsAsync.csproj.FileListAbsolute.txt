@@ -1,0 +1,10 @@
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\FormsAsync\bin\Debug\FormsAsync.exe.config
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\FormsAsync\bin\Debug\FormsAsync.exe
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\FormsAsync\bin\Debug\FormsAsync.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\FormsAsync\obj\Debug\FormsAsync.csproj.AssemblyReference.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\FormsAsync\obj\Debug\FormsAsync.Form1.resources
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\FormsAsync\obj\Debug\FormsAsync.Properties.Resources.resources
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\FormsAsync\obj\Debug\FormsAsync.csproj.GenerateResource.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\FormsAsync\obj\Debug\FormsAsync.csproj.CoreCompileInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\FormsAsync\obj\Debug\FormsAsync.exe
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\FormsAsync\obj\Debug\FormsAsync.pdb
