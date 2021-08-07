@@ -1,0 +1,12 @@
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\IService\bin\Debug\netcoreapp3.1\IService.deps.json
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\IService\bin\Debug\netcoreapp3.1\IService.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\IService\bin\Debug\netcoreapp3.1\IService.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\IService\bin\Debug\netcoreapp3.1\EF.Model.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\IService\bin\Debug\netcoreapp3.1\EF.Model.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\IService\obj\Debug\netcoreapp3.1\IService.csproj.AssemblyReference.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\IService\obj\Debug\netcoreapp3.1\IService.AssemblyInfoInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\IService\obj\Debug\netcoreapp3.1\IService.AssemblyInfo.cs
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\IService\obj\Debug\netcoreapp3.1\IService.csproj.CoreCompileInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\IService\obj\Debug\netcoreapp3.1\IService.csproj.CopyComplete
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\IService\obj\Debug\netcoreapp3.1\IService.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\IService\obj\Debug\netcoreapp3.1\IService.pdb

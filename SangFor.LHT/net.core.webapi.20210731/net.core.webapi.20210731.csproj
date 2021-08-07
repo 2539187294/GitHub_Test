@@ -8,11 +8,16 @@
   <ItemGroup>
     <PackageReference Include="Autofac" Version="6.2.0" />
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.0-preview.6.20312.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\02.应用服务\02.应用服务.csproj" />
     <ProjectReference Include="..\03.领域\03.领域.csproj" />
+    <ProjectReference Include="..\EF.Model\EF.Model.csproj" />
   </ItemGroup>
 
 

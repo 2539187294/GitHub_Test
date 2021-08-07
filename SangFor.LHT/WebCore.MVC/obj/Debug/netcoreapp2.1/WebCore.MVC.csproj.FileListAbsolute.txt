@@ -1,0 +1,17 @@
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\bin\Debug\netcoreapp2.1\appsettings.json
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\bin\Debug\netcoreapp2.1\WebCore.MVC.deps.json
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\bin\Debug\netcoreapp2.1\WebCore.MVC.runtimeconfig.json
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\bin\Debug\netcoreapp2.1\WebCore.MVC.runtimeconfig.dev.json
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\bin\Debug\netcoreapp2.1\WebCore.MVC.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\bin\Debug\netcoreapp2.1\WebCore.MVC.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\obj\Debug\netcoreapp2.1\WebCore.MVC.csproj.AssemblyReference.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\obj\Debug\netcoreapp2.1\WebCore.MVC.AssemblyInfoInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\obj\Debug\netcoreapp2.1\WebCore.MVC.AssemblyInfo.cs
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\obj\Debug\netcoreapp2.1\WebCore.MVC.csproj.CoreCompileInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\obj\Debug\netcoreapp2.1\WebCore.MVC.RazorAssemblyInfo.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\obj\Debug\netcoreapp2.1\WebCore.MVC.RazorAssemblyInfo.cs
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\obj\Debug\netcoreapp2.1\WebCore.MVC.RazorTargetAssemblyInfo.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\obj\Debug\netcoreapp2.1\WebCore.MVC.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\obj\Debug\netcoreapp2.1\WebCore.MVC.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WebCore.MVC\obj\Debug\netcoreapp2.1\WebCore.MVC.genruntimeconfig.cache

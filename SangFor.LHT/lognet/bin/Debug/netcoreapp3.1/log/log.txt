@@ -1,0 +1,9 @@
+2021-08-07 20:29:21,992 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-08-07 20:29:22,006 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-08-07 20:29:22,010 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\SangFor.LHT\GitHub_Test\SangFor.LHT\lognet
+2021-08-07 20:29:22,105 [8] INFO  lognet.Controllers.WeatherForecastController - whduwhduwhdudhcs7uefuqweu
+2021-08-07 20:30:27,688 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5000
+2021-08-07 20:30:27,702 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-08-07 20:30:27,706 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-08-07 20:30:27,710 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\SangFor.LHT\GitHub_Test\SangFor.LHT\lognet
+2021-08-07 20:30:28,827 [4] INFO  lognet.Controllers.WeatherForecastController - whduwhduwhdudhcs7uefuqweu

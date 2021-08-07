@@ -1,0 +1,11 @@
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\EF.Model\bin\Debug\netcoreapp3.1\EF.Model.deps.json
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\EF.Model\bin\Debug\netcoreapp3.1\EF.Model.runtimeconfig.json
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\EF.Model\bin\Debug\netcoreapp3.1\EF.Model.runtimeconfig.dev.json
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\EF.Model\bin\Debug\netcoreapp3.1\EF.Model.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\EF.Model\bin\Debug\netcoreapp3.1\EF.Model.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\EF.Model\obj\Debug\netcoreapp3.1\EF.Model.AssemblyInfoInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\EF.Model\obj\Debug\netcoreapp3.1\EF.Model.AssemblyInfo.cs
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\EF.Model\obj\Debug\netcoreapp3.1\EF.Model.csproj.CoreCompileInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\EF.Model\obj\Debug\netcoreapp3.1\EF.Model.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\EF.Model\obj\Debug\netcoreapp3.1\EF.Model.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\EF.Model\obj\Debug\netcoreapp3.1\EF.Model.genruntimeconfig.cache

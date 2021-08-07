@@ -60,5 +60,10 @@ namespace FormsAsync
             }
             Console.WriteLine("多线程结束");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

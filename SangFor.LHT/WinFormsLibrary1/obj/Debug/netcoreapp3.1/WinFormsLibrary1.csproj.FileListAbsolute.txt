@@ -1,0 +1,9 @@
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WinFormsLibrary1\bin\Debug\netcoreapp3.1\WinFormsLibrary1.deps.json
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WinFormsLibrary1\bin\Debug\netcoreapp3.1\WinFormsLibrary1.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WinFormsLibrary1\bin\Debug\netcoreapp3.1\WinFormsLibrary1.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WinFormsLibrary1\obj\Debug\netcoreapp3.1\WinFormsLibrary1.csproj.AssemblyReference.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WinFormsLibrary1\obj\Debug\netcoreapp3.1\WinFormsLibrary1.AssemblyInfoInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WinFormsLibrary1\obj\Debug\netcoreapp3.1\WinFormsLibrary1.AssemblyInfo.cs
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WinFormsLibrary1\obj\Debug\netcoreapp3.1\WinFormsLibrary1.csproj.CoreCompileInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WinFormsLibrary1\obj\Debug\netcoreapp3.1\WinFormsLibrary1.dll
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\WinFormsLibrary1\obj\Debug\netcoreapp3.1\WinFormsLibrary1.pdb

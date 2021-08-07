@@ -1,0 +1,9 @@
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.窗体应用\bin\Debug\02.窗体应用.exe.config
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.窗体应用\bin\Debug\02.窗体应用.exe
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.窗体应用\bin\Debug\02.窗体应用.pdb
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.窗体应用\obj\Debug\02.窗体应用.csproj.AssemblyReference.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.窗体应用\obj\Debug\_02.窗体应用.Properties.Resources.resources
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.窗体应用\obj\Debug\02.窗体应用.csproj.GenerateResource.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.窗体应用\obj\Debug\02.窗体应用.csproj.CoreCompileInputs.cache
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.窗体应用\obj\Debug\02.窗体应用.exe
+D:\SangFor.LHT\GitHub_Test\SangFor.LHT\02.窗体应用\obj\Debug\02.窗体应用.pdb
