@@ -18,6 +18,9 @@ namespace WebcCoreEntrtyFramment
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
+            .ConfigureLogging(loggerbuiller => {
+                loggerbuiller.AddLog4Net();
+            })
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();

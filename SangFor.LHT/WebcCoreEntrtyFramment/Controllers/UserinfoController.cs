@@ -25,8 +25,11 @@ namespace WebcCoreEntrtyFramment.Controllers
 		[HttpGet]
 		public IActionResult Index()
 		{
-			var userinfos = this._userinfoService.Query(m => !string.IsNullOrWhiteSpace(m.UserId.ToString()));
-			return View(userinfos);
+			//var userinfos = this._userinfoService.Query(m => !string.IsNullOrWhiteSpace(m.UserId.ToString())).ToList();
+
+			var list = this._userinfoService.Query(x => !string.IsNullOrEmpty(x.UserId)).ToList();
+
+			return View(list);
 		}
 
 		[HttpPost]
